@@ -1,0 +1,2 @@
+Ternary operator
+if else 
