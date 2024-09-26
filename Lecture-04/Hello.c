@@ -46,7 +46,24 @@ i++;}
  while(j<5);
 
 
-//nested loop
+//break
+for(int z=1;z<=10 ; ++z){
+    if(z==5){
+        break;
+    }
+    printf("%d \n", z);
+}
+printf("end\n");
+
+
+//continue
+for(int z=1; z<=10 ; ++z){
+    if(z==5){
+        continue;
+    }
+    printf("%d \n", z);
+}
+printf("end\n");
 
 return 0;
 }
