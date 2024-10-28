@@ -1,3 +1,5 @@
+chapter NO:2  INSTRUCTION AND OPERATORS
+<b>
 Declaration Instructions Declare var before using it
 <br>
 Arithmetic Instructions
