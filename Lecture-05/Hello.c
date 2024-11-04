@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 #include<string.h>
+//FUNCTION
 //declaration prototypes
 void prinHello();
 
