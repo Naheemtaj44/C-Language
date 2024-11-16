@@ -4,7 +4,7 @@
 void printAdress0(int *n);
 void printAdress(int n);
 //will the adress output be same ?
- //PRACTICE QUESTION NO: 44
+ //PRACTICE QUESTION NO: 48
  int main(){
     int n=4;
     printfAdress(n);

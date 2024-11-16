@@ -2,7 +2,7 @@
 #include<math.h>
 #include<string.h>
 //SWAP 2 number, a & b;
- //PRACTICE QUESTION NO: 44
+ //PRACTICE QUESTION NO: 47
  void swap(int a, int b);
   void _swap(int *a, int *b);
  int main (){

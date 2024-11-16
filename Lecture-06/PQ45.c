@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 #include<string.h>
- //PRACTICE QUESTION NO: 44
+ //PRACTICE QUESTION NO: 45
 int main() {
     int x;
 int *ptr;
