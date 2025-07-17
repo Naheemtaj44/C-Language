@@ -14,5 +14,22 @@ do{
 
 }while(1);
 printf("thank you\n");
-    return 0; 
+
+ 
+  //keep taking number as inputs from user until user enter an odd number
+    int a;
+    printf("enter value\n");
+    scanf("%d",&a);
+    for(;;)
+    if(a%2!=0){
+        break;
+    }
+    printf("%d\n", a);
+  
+   
+  printf("thank you\n");
+return 0;
+
+
+   
 }

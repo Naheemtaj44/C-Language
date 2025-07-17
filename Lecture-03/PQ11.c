@@ -21,3 +21,4 @@ else if(marks>=71 && marks<=90)
 else{printf("A+\n");}
 
    return 0;     }
+   .

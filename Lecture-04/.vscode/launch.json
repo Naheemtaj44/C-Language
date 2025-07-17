@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/naeem/coding/C_Tutorials/C-Language/Lecture-01",
-      "program": "/home/naeem/coding/C_Tutorials/C-Language/Lecture-01/build/Debug/outDebug",
+      "cwd": "/home/naeem/coding/C_Tutorials/C-Language/Lecture-04",
+      "program": "/home/naeem/coding/C_Tutorials/C-Language/Lecture-04/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
